@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data & Logs
+data/raw/*
+!data/sample_docs/
+logs/
+*.parquet
+*.log
+
+# IDE & OS
+.vscode/
+.DS_Store
+.idea/
