@@ -15,3 +15,7 @@ logs/
 .vscode/
 .DS_Store
 .idea/
+
+.venv/
+local_s3_lakehouse/
+local_s3_lakehouse/
