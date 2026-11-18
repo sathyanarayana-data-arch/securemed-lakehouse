@@ -1,0 +1,12 @@
+PATIENT VISIT CLINICAL SUMMARY
+Patient ID: 11111111-1111-1111-1111-111111111111
+Date: November 15, 2026
+Attending Physician: Dr. Kavita Rao, Department of Cardiology
+
+CHIEF COMPLAINT:
+Patient presents with recurrent episodes of mild exertional chest tightness and shortness of breath over the past three weeks. Vital signs stable. Blood pressure is 135/85 mmHg. Heart rate is 74 bpm, regular.
+
+ASSESSMENT & PLAN:
+1. Essential Hypertension (Diagnosis Code: I10). Managed with lifestyle modifications and continued monitoring.
+2. Order baseline lipid panel and outpatient ECG.
+3. Follow-up scheduled in 4 weeks. Patient instructed to maintain daily blood pressure log.
